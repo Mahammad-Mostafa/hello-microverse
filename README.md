@@ -29,7 +29,7 @@ It also includes some config linters for `HTML` & `CSS3` in the `.github` folder
 
 **Key Features:**
 - Simple HTML page with a single heading
-- Basic CSS file with a single class for text color
+- Basic CSS file with a single class for styling the header
 - Extra file named `test.md` which is ignored
 
 <p align="right"><a href="#title">back to top</a></p>
