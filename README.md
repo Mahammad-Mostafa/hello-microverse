@@ -99,7 +99,7 @@ Wish to contribute to this project?
 <br/>
 Contributions, issues, and feature requests are more than welcome!
 <br/>
-Feel free to check the [issues](/issues) page as well.
+Feel free to check the [issues](../../issues) page as well.
 
 <p align="right"><a href="#title">back to top</a></p>
 
