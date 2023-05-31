@@ -4,7 +4,9 @@
 
 # 🏷️ Hello Microverse
 
-This is the first project in the first module in the **Microverse** program. Check the below contents for futher details about this project.
+This is the first project in the first module in the **Microverse** program.
+<br/>
+Check the below contents for futher details about this project.
 
 <!-- TABLE OF CONTENTS -->
 
@@ -13,6 +15,8 @@ This is the first project in the first module in the **Microverse** program. Che
 - [Description](#description)
 - [Instructions](#instructions)
 - [Authors](#authors)
+- [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -24,7 +28,8 @@ This is the first project in the first module in the **Microverse** program. Che
 This project is for demonstrating general understanding of GitHub flow and code review practices. It contains three main files (`index.html` / `style.css` / `test.md`).
 It also includes some config linters for `HTML` & `CSS3` in the `.github` folder. 
 
-**Tech Stack:**<br/>
+**Tech Stack:**
+<br/>
 `HTML5` & `CSS3`
 
 **Key Features:**
@@ -42,13 +47,16 @@ It also includes some config linters for `HTML` & `CSS3` in the `.github` folder
 
 You can easily download or fork this repository and work on it at once!
 
-**Prerequisites:**<br/>
+**Prerequisites:**
+<br/>
 No prior requirements needed!
 
-**Setup:**<br/>
+**Setup:**
+<br/>
 Simply download or fork this repository.
 
-**Deployment:**<br/>
+**Deployment:**
+<br/>
 You can deploy this project by uploading the two files `index.html` & `style.css` to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
@@ -63,6 +71,32 @@ You can deploy this project by uploading the two files `index.html` & `style.css
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTING -->
+
+<a name="contributing"></a>
+
+# 🤝🏻 Contributing
+
+Wish to contribute to this project?
+<br/>
+Contributions, issues, and feature requests are more than welcome!
+<br/>
+Feel free to check the issues page as well.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- SUPPORT -->
+
+<a name="support"></a>
+
+# ⭐️ Support
+
+Liked this project?
+<br/>
+Show your support with starring it!
 
 <p align="right"><a href="#title">back to top</a></p>
 
