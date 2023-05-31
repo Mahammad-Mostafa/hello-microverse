@@ -1,6 +1,6 @@
 <a name="title"></a>
 
-<!-- PROJECT TITLE -->
+<!-- TITLE -->
 
 # 🏷️ Hello Microverse
 
@@ -8,18 +8,20 @@ This is the first project in the first module in the **Microverse** program.
 <br/>
 Check the below contents for futher details about this project.
 
-<!-- TABLE OF CONTENTS -->
+<!-- CONTENTS -->
 
 # 📗 Contents
 
 - [Description](#description)
 - [Instructions](#instructions)
 - [Authors](#authors)
-- [Contributing](#contributing)
+- [Future](#future)
+- [Contributions](#contributions)
 - [Support](#support)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+<!-- DESCRIPTION -->
 
 <a name="description"></a>
 
@@ -39,7 +41,7 @@ It also includes some config linters for `HTML` & `CSS3` in the `.github` folder
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- GETTING STARTED -->
+<!-- INSTRUCTIONS -->
 
 <a name="instructions"></a>
 
@@ -61,7 +63,7 @@ You can deploy this project by uploading the two files `index.html` & `style.css
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- AUTHOR -->
+<!-- AUTHORS -->
 
 <a name="authors"></a>
 
@@ -74,17 +76,30 @@ You can deploy this project by uploading the two files `index.html` & `style.css
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- CONTRIBUTING -->
+<!-- FUTURE -->
 
-<a name="contributing"></a>
+<a name="future"></a>
 
-# 🤝🏻 Contributing
+# 🔭 Future
+
+Some additional features may be added to the project:
+
+- [ ] Main page content
+- [ ] Footer section with links
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTIONS -->
+
+<a name="contributions"></a>
+
+# 🤝🏻 Contributions
 
 Wish to contribute to this project?
 <br/>
 Contributions, issues, and feature requests are more than welcome!
 <br/>
-Feel free to check the issues page as well.
+Feel free to check the [issues](/issues) page as well.
 
 <p align="right"><a href="#title">back to top</a></p>
 
@@ -97,6 +112,16 @@ Feel free to check the issues page as well.
 Liked this project?
 <br/>
 Show your support with starring it!
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<a name="acknowledgements"></a>
+
+# 🙏🏻 Acknowledgements
+
+I would like to thank everyone at **Microverse** for guiding me through this project.
 
 <p align="right"><a href="#title">back to top</a></p>
 
