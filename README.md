@@ -30,11 +30,11 @@ Check the below contents for futher details about this project.
 This project is for demonstrating general understanding of GitHub flow and code review practices. It contains three main files (`index.html` / `style.css` / `test.md`).
 It also includes some config linters for `HTML` & `CSS3` in the `.github` folder. 
 
-**Tech Stack:**
+📌 **Tech Stack:**
 <br/>
 `HTML5` & `CSS3`
 
-**Key Features:**
+📌 **Key Features:**
 - Simple HTML page with a single heading
 - Basic CSS file with a single class for styling the header
 - Extra file named `test.md` which is ignored
@@ -45,19 +45,19 @@ It also includes some config linters for `HTML` & `CSS3` in the `.github` folder
 
 <a name="instructions"></a>
 
-# 💻 Instructions
+# 🛠️ Instructions
 
-You can easily download or fork this repository and work on it at once!
+You can easily download or fork this repository and work on it immediately!
 
-**Prerequisites:**
+📌 **Prerequisites:**
 <br/>
 No prior requirements needed!
 
-**Setup:**
+📌 **Setup:**
 <br/>
 Simply download or fork this repository.
 
-**Deployment:**
+📌 **Deployment:**
 <br/>
 You can deploy this project by uploading the two files `index.html` & `style.css` to a live server.
 
@@ -69,7 +69,7 @@ You can deploy this project by uploading the two files `index.html` & `style.css
 
 # 👥 Authors
 
-**Mahammad:**
+📌 **Mahammad:**
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
@@ -82,7 +82,7 @@ You can deploy this project by uploading the two files `index.html` & `style.css
 
 # 🔭 Future
 
-Some additional features may be added to the project:
+Some additional features I may implement in the project:
 
 - [ ] Main page content
 - [ ] Footer section with links
@@ -99,7 +99,7 @@ Wish to contribute to this project?
 <br/>
 Contributions, issues, and feature requests are more than welcome!
 <br/>
-Feel free to check the [issues](../../issues) page as well.
+Feel free to check the [issues](../../issues) page too.
 
 <p align="right"><a href="#title">back to top</a></p>
 
@@ -109,9 +109,7 @@ Feel free to check the [issues](../../issues) page as well.
 
 # ⭐️ Support
 
-Liked this project?
-<br/>
-Show your support with starring it!
+Like this project? Show your support by starring!
 
 <p align="right"><a href="#title">back to top</a></p>
 
@@ -121,7 +119,7 @@ Show your support with starring it!
 
 # 🙏🏻 Acknowledgements
 
-I would like to thank everyone at **Microverse** for guiding me through this project.
+I thank everyone at **Microverse** for guiding me through this project.
 
 <p align="right"><a href="#title">back to top</a></p>
 
