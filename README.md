@@ -6,7 +6,7 @@
 
 This is the first project in the first module in the **Microverse** program.
 <br/>
-Check the below contents for futher details about this project.
+Check the below contents for further details about this project.
 
 <!-- CONTENTS -->
 
@@ -31,8 +31,8 @@ This project is for demonstrating general understanding of GitHub flow and code 
 It also includes some config linters for `HTML` & `CSS3` in the `.github` folder. 
 
 📌 **Tech Stack:**
-<br/>
-`HTML5` & `CSS3`
+- Page strucutre is built with `HTML5`
+- Styling and effects built with `CSS3`
 
 📌 **Key Features:**
 - Simple HTML page with a single heading
@@ -50,16 +50,13 @@ It also includes some config linters for `HTML` & `CSS3` in the `.github` folder
 You can easily download or fork this repository and work on it immediately!
 
 📌 **Prerequisites:**
-<br/>
-No prior requirements needed!
+- No prior requirements needed!
 
 📌 **Setup:**
-<br/>
-Simply download or fork this repository.
+- Simply download or fork this repository.
 
 📌 **Deployment:**
-<br/>
-You can deploy this project by uploading the two files `index.html` & `style.css` to a live server.
+- You can deploy this project by uploading the two files `index.html` & `style.css` to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
